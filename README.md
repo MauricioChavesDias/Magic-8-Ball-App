@@ -2,14 +2,16 @@
 
 # Magic 8 Ball
 
-## Goal
 
-The objective of this challenge is to apply the skills I learned in the Dicee app.
-
-## What I created
+## Description
 
 I made a Magic 8 Ball app, where the user can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
+
+## What I learned with this app
+
+* Auto layout.
+* Swift language basics.
 
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
