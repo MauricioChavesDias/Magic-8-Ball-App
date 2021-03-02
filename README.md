@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Begin Banner](Documentation/readme-begin-banner-mau.png)
 
 # Magic 8 Ball
 
