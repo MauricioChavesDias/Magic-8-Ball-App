@@ -10,6 +10,11 @@ This app was built during the course "Complete iOS App Development Bootcamp" fro
 I made a Magic 8 Ball app, where the user can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
 
+## Screenshot
+
+<img src= Documentation/ScreenShot1.png  height="375" width="175">   <img src= Documentation/ScreenShot2.png height="375" width="175">
+
+
 ## What I learned with this app
 
 * Auto layout.
